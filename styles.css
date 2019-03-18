@@ -1,0 +1,71 @@
+
+
+Body {
+    
+    background-image:url(https://i.pinimg.com/originals/62/c7/50/62c750c94c067931529fc99344409a40.gif);
+    background-size:25%;
+    padding-top:50px;
+}
+h1 {
+    font-family: 'Bungee', cursive;
+    color:white;
+    text-align:center;
+}
+h2 {
+    font-family: 'Bangers', cursive;
+    color:white;
+    text-align:Left;
+    padding-left:20px;
+}
+p {
+    color:white;
+    text-align:center;
+    font-family: 'Economica', sans-serif;
+    font-size:16px;
+}
+
+div{
+    width:500px;
+    height:600px;
+    Background-color:black;
+    margin:auto;
+}
+ol {
+    color:white;
+    text-align:left;
+    font-family: 'Economica', sans-serif;
+    font-size:16px;
+}
+ul {
+    color:white;
+    text-align:left;
+    font-family: 'Economica', sans-serif;
+    font-size:16px;
+}
+
+div{
+    width:500px;
+    height:700px;
+    Background-color:black;
+    margin:auto;
+    Border-radius: 25px;
+}
+a{
+    color:Red;
+    font-style:italic;
+    }
+#Jay{
+
+    margin-left:40px;
+    margin-top:25px;
+    
+    }
+#Boi{
+    
+    width:300px;
+    border:solid white 10px;
+    border-bottom:solid red 10px;
+    border-top:solid red  10px;
+    margin-left:95px;   
+    Border-radius: 25px;
+}
